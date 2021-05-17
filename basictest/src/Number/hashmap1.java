@@ -14,7 +14,7 @@ public class hashmap1 {
 		//System.out.println(h1);
 		System.out.println(h1.put("a",1264));
 		System.out.println(h1.put("b",1264));
-		
+		//h1.containsValue(h1)
 		
 		 /* Enumeration<String> e=h1.keys(); 
 		  while (e.hasMoreElements()) {
