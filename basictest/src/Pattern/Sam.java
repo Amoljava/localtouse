@@ -5,7 +5,7 @@ public class Sam {
 
 		System.out.println(add(100,150));
 
-		System.out.println(add(40,80));
+		System.out.println(add(400,800));
 			
 		}
 	public static int add(int num1, int num2) {
