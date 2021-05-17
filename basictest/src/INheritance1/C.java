@@ -2,9 +2,9 @@ package INheritance1;
 
 public class C extends B {
 
-	Integer m1() {
+	String m1() {
 		System.out.println("c m1");
-		return 23;
+		return null;
 	}
 	void m2() {
 		System.out.println("c m2");
