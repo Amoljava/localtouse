@@ -10,7 +10,7 @@ public class Reversenum1{
 			a=a/10;
 			
 		}
-		System.out.println(result);
+		System.out.println (result);
 				}
 
 }
